@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "97687129024",
+    "firebase_url": "https://bazel-jin-f144a.firebaseio.com",
+    "project_id": "bazel-jin-f144a",
+    "storage_bucket": "bazel-jin-f144a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97687129024:android:c6accd4243825e37",
+        "android_client_info": {
+          "package_name": "burrows.app.example.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97687129024-6kr8krhd1m1bqcpbk6d7baslqqkkaio6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKBeDKjrcJ_PXzZG9CtRN6F_XEZ4AbBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97687129024:android:f7411fb8b70f6c85",
+        "android_client_info": {
+          "package_name": "burrows.apps.example.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97687129024-6kr8krhd1m1bqcpbk6d7baslqqkkaio6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKBeDKjrcJ_PXzZG9CtRN6F_XEZ4AbBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

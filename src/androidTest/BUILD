@@ -18,12 +18,12 @@ android_binary(
         "targetSdkVersion": str(targetSdkVersion),
     },
     deps = [
-        artifact("androidx.test:runner:" + versions["androidx.test"]["runner"]),
-        artifact("androidx.test:rules:" + versions["androidx.test"]["runner"]),
-        artifact("androidx.annotation:annotation:" + versions["annotation"]),
-        artifact("androidx.test.espresso:espresso-core:" + versions["espresso"]),
-        artifact("androidx.test.ext:junit:" + versions["androidx.test"]["ext"]["junit"]),
-        artifact("junit:junit:" + versions["junit"]),
+        artifact("androidx.test:runner"),
+        artifact("androidx.test:rules"),
+        artifact("androidx.annotation:annotation"),
+        artifact("androidx.test.espresso:espresso-core"),
+        artifact("androidx.test.ext:junit"),
+        artifact("junit:junit"),
         "//src/main:template_app_lib",
     ],
 )
